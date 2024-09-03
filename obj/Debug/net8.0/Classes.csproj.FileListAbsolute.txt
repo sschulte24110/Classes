@@ -1,0 +1,15 @@
+/Users/scottschulte/coding/c-sharp/Classes/bin/Debug/net8.0/Classes
+/Users/scottschulte/coding/c-sharp/Classes/bin/Debug/net8.0/Classes.deps.json
+/Users/scottschulte/coding/c-sharp/Classes/bin/Debug/net8.0/Classes.runtimeconfig.json
+/Users/scottschulte/coding/c-sharp/Classes/bin/Debug/net8.0/Classes.dll
+/Users/scottschulte/coding/c-sharp/Classes/bin/Debug/net8.0/Classes.pdb
+/Users/scottschulte/coding/c-sharp/Classes/obj/Debug/net8.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottschulte/coding/c-sharp/Classes/obj/Debug/net8.0/Classes.AssemblyInfoInputs.cache
+/Users/scottschulte/coding/c-sharp/Classes/obj/Debug/net8.0/Classes.AssemblyInfo.cs
+/Users/scottschulte/coding/c-sharp/Classes/obj/Debug/net8.0/Classes.csproj.CoreCompileInputs.cache
+/Users/scottschulte/coding/c-sharp/Classes/obj/Debug/net8.0/Classes.sourcelink.json
+/Users/scottschulte/coding/c-sharp/Classes/obj/Debug/net8.0/Classes.dll
+/Users/scottschulte/coding/c-sharp/Classes/obj/Debug/net8.0/refint/Classes.dll
+/Users/scottschulte/coding/c-sharp/Classes/obj/Debug/net8.0/Classes.pdb
+/Users/scottschulte/coding/c-sharp/Classes/obj/Debug/net8.0/Classes.genruntimeconfig.cache
+/Users/scottschulte/coding/c-sharp/Classes/obj/Debug/net8.0/ref/Classes.dll
